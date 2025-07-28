@@ -1,0 +1,191 @@
+stocks:
+  - symbol: ADANIENT
+    name: Adani Enterprises
+  - symbol: ADANIPORTS
+    name: Adani Ports & SEZ
+  - symbol: APOLLOHOSP
+    name: Apollo Hospitals
+  - symbol: ASIANPAINT
+    name: Asian Paints
+  - symbol: ASTRAL
+    name: Astral Ltd
+  - symbol: ATGL
+    name: Adani Total Gas
+  - symbol: AUROPHARMA
+    name: Aurobindo Pharma
+  - symbol: AXISBANK
+    name: Axis Bank
+  - symbol: BAJAJ-AUTO
+    name: Bajaj Auto
+  - symbol: BAJAJFINSV
+    name: Bajaj Finserv
+  - symbol: BAJFINANCE
+    name: Bajaj Finance
+  - symbol: BANDHANBNK
+    name: Bandhan Bank
+  - symbol: BANKBARODA
+    name: Bank of Baroda
+  - symbol: BERGEPAINT
+    name: Berger Paints
+  - symbol: BHARTIARTL
+    name: Bharti Airtel
+  - symbol: BOSCHLTD
+    name: Bosch Ltd
+  - symbol: BPCL
+    name: Bharat Petroleum
+  - symbol: BRITANNIA
+    name: Britannia Industries
+  - symbol: CHOLAFIN
+    name: Cholamandalam Investment
+  - symbol: CIPLA
+    name: Cipla Ltd
+  - symbol: COALINDIA
+    name: Coal India
+  - symbol: COLPAL
+    name: Colgate-Palmolive
+  - symbol: DABUR
+    name: Dabur India
+  - symbol: DIVISLAB
+    name: Divi's Laboratories
+  - symbol: DLF
+    name: DLF Ltd
+  - symbol: DRREDDY
+    name: Dr. Reddy's Labs
+  - symbol: EICHERMOT
+    name: Eicher Motors
+  - symbol: GODREJCP
+    name: Godrej Consumer
+  - symbol: GRASIM
+    name: Grasim Industries
+  - symbol: HAVELLS
+    name: Havells India
+  - symbol: HCLTECH
+    name: HCL Technologies
+  - symbol: HDFC
+    name: HDFC Ltd
+  - symbol: HDFCBANK
+    name: HDFC Bank
+  - symbol: HDFCLIFE
+    name: HDFC Life
+  - symbol: HEROMOTOCO
+    name: Hero MotoCorp
+  - symbol: HINDALCO
+    name: Hindalco Industries
+  - symbol: HINDUNILVR
+    name: Hindustan Unilever
+  - symbol: ICICIBANK
+    name: ICICI Bank
+  - symbol: ICICIPRULI
+    name: ICICI Prudential Life
+  - symbol: IDFCFIRSTB
+    name: IDFC First Bank
+  - symbol: IGL
+    name: Indraprastha Gas
+  - symbol: INDUSINDBK
+    name: IndusInd Bank
+  - symbol: INDUSTOWER
+    name: Indus Towers
+  - symbol: INFY
+    name: Infosys Ltd
+  - symbol: IRCTC
+    name: Indian Railway Catering & Tourism
+  - symbol: ITC
+    name: ITC Ltd
+  - symbol: JSWSTEEL
+    name: JSW Steel
+  - symbol: JUBLFOOD
+    name: Jubilant FoodWorks
+  - symbol: KOTAKBANK
+    name: Kotak Mahindra Bank
+  - symbol: LICHSGFIN
+    name: LIC Housing Finance
+  - symbol: LT
+    name: Larsen & Toubro
+  - symbol: LTI
+    name: Larsen & Toubro Infotech
+  - symbol: LTTS
+    name: L&T Technology Services
+  - symbol: M&M
+    name: Mahindra & Mahindra
+  - symbol: MARICO
+    name: Marico Ltd
+  - symbol: MARUTI
+    name: Maruti Suzuki
+  - symbol: MUTHOOTFIN
+    name: Muthoot Finance
+  - symbol: NESTLEIND
+    name: Nestle India
+  - symbol: NMDC
+    name: NMDC Ltd
+  - symbol: NTPC
+    name: NTPC Ltd
+  - symbol: ONGC
+    name: Oil & Natural Gas Corp
+  - symbol: PAGEIND
+    name: Page Industries
+  - symbol: PEL
+    name: Piramal Enterprises
+  - symbol: PETRONET
+    name: Petronet LNG
+  - symbol: PFC
+    name: Power Finance Corp
+  - symbol: PIDILITIND
+    name: Pidilite Industries
+  - symbol: PIIND
+    name: PI Industries
+  - symbol: PNB
+    name: Punjab National Bank
+  - symbol: POWERGRID
+    name: Power Grid Corp
+  - symbol: RBLBANK
+    name: RBL Bank
+  - symbol: RELIANCE
+    name: Reliance Industries
+  - symbol: RECLTD
+    name: REC Limited
+  - symbol: SBILIFE
+    name: SBI Life Insurance
+  - symbol: SBIN
+    name: State Bank of India
+  - symbol: SHREECEM
+    name: Shree Cement
+  - symbol: SIEMENS
+    name: Siemens Ltd
+  - symbol: SRF
+    name: SRF Ltd
+  - symbol: SUNPHARMA
+    name: Sun Pharma
+  - symbol: TATACONSUM
+    name: Tata Consumer Products
+  - symbol: TATAMOTORS
+    name: Tata Motors
+  - symbol: TATAPOWER
+    name: Tata Power
+  - symbol: TATASTEEL
+    name: Tata Steel
+  - symbol: TCS
+    name: Tata Consultancy Services
+  - symbol: TECHM
+    name: Tech Mahindra
+  - symbol: TITAN
+    name: Titan Company
+  - symbol: TORNTPHARM
+    name: Torrent Pharma
+  - symbol: TRENT
+    name: Trent Ltd
+  - symbol: TVSMOTOR
+    name: TVS Motor Company
+  - symbol: UBL
+    name: United Breweries
+  - symbol: ULTRACEMCO
+    name: UltraTech Cement
+  - symbol: UPL
+    name: UPL Ltd
+  - symbol: VEDL
+    name: Vedanta Ltd
+  - symbol: VOLTAS
+    name: Voltas Ltd
+  - symbol: WIPRO
+    name: Wipro Ltd
+  - symbol: ZEEL
+    name: Zee Entertainment
